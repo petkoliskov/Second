@@ -1,0 +1,1 @@
+notepad is /usr/bin/notepad
